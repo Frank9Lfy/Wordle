@@ -1,0 +1,2 @@
+# Wordle
+a small project
