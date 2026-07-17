@@ -4,7 +4,12 @@
 
 ## 🎮 游戏截图
 
-> （运行后截图可放在此处）
+### 主界面
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/d169347f-fca8-4158-8604-d8b27539e4b7" />
+
+### 猜词界面
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/0d08618a-6f63-4c57-abb5-189684d875d6" />
+
 
 ## ✨ 功能特性
 
