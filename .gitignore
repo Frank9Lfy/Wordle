@@ -1,0 +1,39 @@
+# CLion / IntelliJ IDEA 项目配置（用户特定）
+.idea/
+*.iml
+
+# CMake 构建输出目录
+cmake-build-debug/
+cmake-build-release/
+build/
+out/
+
+# CMake 生成的文件
+CMakeCache.txt
+CMakeFiles/
+*.cmake
+!CMakeLists.txt
+Makefile
+*.ninja
+.ninja_*
+build.ninja
+
+# 编译产物
+*.exe
+*.out
+*.o
+*.obj
+*.lib
+*.so
+*.dylib
+*.dll
+
+
+# 调试文件
+*.pdb
+*.ilk
+
+# 操作系统生成文件
+Thumbs.db
+.DS_Store
+Desktop.ini
