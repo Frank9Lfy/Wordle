@@ -1,5 +1,7 @@
 # Wordle - C++ 控制台图形版
 
+*本项目为某高校智C课程大作业成果*
+
 一个使用 **C++** 和 **EasyX** 图形库开发的 Wordle 猜词游戏，支持经典玩法、困难模式、提示系统和数据统计。
 
 ## 🎮 游戏截图
@@ -85,5 +87,6 @@ untitled/
 
 ## 🙏 致谢
 
+- 首先，感谢王开队长的大力贡献💗，也感谢曾同学，孙同学的大力支持😄 参考网站如下
 - [EasyX](https://easyx.cn/) — 简单易用的 Windows 图形库
 - 灵感来源于 [Wordle](https://www.nytimes.com/games/wordle/index.html) 原版游戏
